@@ -16,6 +16,8 @@
 
 #include "detail/qualifier.hpp"
 #include "detail/_fixes.hpp"
+#include <shaman.h>
+
 
 namespace glm
 {
