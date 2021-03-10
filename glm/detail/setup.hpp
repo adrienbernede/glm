@@ -3,6 +3,8 @@
 #include <cassert>
 #include <cstddef>
 
+#include "shaman.h"
+
 #define GLM_VERSION_MAJOR			0
 #define GLM_VERSION_MINOR			9
 #define GLM_VERSION_PATCH			9
