@@ -19,7 +19,7 @@ namespace detail
 	union float_t<float>
 	{
 		typedef int int_type;
-		typedef float float_type;
+		typedef Sfloat float_type;
 
 		GLM_CONSTEXPR float_t(float_type Num = 0.0f) : f(Num) {}
 
